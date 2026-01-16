@@ -1,0 +1,44 @@
+﻿  Sistemadenomina.cpp
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(1,7): error C2065: 'System': undeclared identifier
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(1,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(2,7): error C2065: 'System': undeclared identifier
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(2,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(2,13): error C2059: syntax error: '.'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(7,20): error C2143: syntax error: missing ';' before '<class-head>'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(7,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(9,16): error C2146: syntax error: missing ':' before identifier 'string'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(9,35): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(10,16): error C2146: syntax error: missing ':' before identifier 'string'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(10,38): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(11,16): error C2146: syntax error: missing ':' before identifier 'string'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(11,41): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(13,16): error C2146: syntax error: missing ':' before identifier 'abstract'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(13,54): error C2238: unexpected token(s) preceding ';'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(17,5): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(17,30): error C2059: syntax error: ':'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(17,32): error C2059: syntax error: 'function-style cast'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(18,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(18,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(30,16): error C2146: syntax error: missing ':' before identifier 'decimal'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(30,37): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(31,16): error C2062: type 'int' unexpected
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(31,35): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(33,20): error C2146: syntax error: missing ':' before identifier 'override'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(34,9): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(44,5): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(44,31): error C2059: syntax error: ':'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(44,33): error C2059: syntax error: 'function-style cast'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(45,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(45,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(58,16): error C2146: syntax error: missing ':' before identifier 'decimal'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(58,36): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(59,16): error C2146: syntax error: missing ':' before identifier 'decimal'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(59,38): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(60,16): error C2146: syntax error: missing ':' before identifier 'decimal'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(60,35): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(62,20): error C2146: syntax error: missing ':' before identifier 'override'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(63,9): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(71,5): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(72,5): error C2059: syntax error: '{'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(72,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\Sistemadenomina.cpp(72,5): error C2447: '{': missing function header (old-style formal list?)

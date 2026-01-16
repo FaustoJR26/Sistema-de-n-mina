@@ -1,0 +1,14 @@
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\bin\Debug\net8.0\Sistemadenomina.exe
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\bin\Debug\net8.0\Sistemadenomina.deps.json
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\bin\Debug\net8.0\Sistemadenomina.runtimeconfig.json
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\bin\Debug\net8.0\Sistemadenomina.dll
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\bin\Debug\net8.0\Sistemadenomina.pdb
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.AssemblyInfoInputs.cache
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.AssemblyInfo.cs
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.csproj.CoreCompileInputs.cache
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.dll
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\refint\Sistemadenomina.dll
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.pdb
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\Sistemadenomina.genruntimeconfig.cache
+C:\Users\Junio\source\repos\Sistemadenomina\Sistemadenomina\obj\Debug\net8.0\ref\Sistemadenomina.dll
